@@ -1,0 +1,434 @@
+[
+  {
+    "image": "https://i.ibb.co.com/zHt2PH1w/image.png",
+    "title": "PhotoFlow",
+    "companyName": "Visionary Labs",
+    "id": 1,
+    "description": "PhotoFlow by Visionary Labs revolutionizes mobile photography with its all-in-one platform for capturing, editing, and sharing stunning visuals. Leveraging cutting-edge AI technology, the app transforms ordinary snapshots into professional-grade images through intelligent filters and customizable presets. Its intuitive interface caters to both amateur photographers and social media enthusiasts, offering real-time editing tools that adjust lighting, composition, and color balance automatically. The cloud-synced gallery ensures your creations are always accessible across devices while maintaining original quality.\n\nBeyond basic editing, PhotoFlow fosters a creative community where users can discover trending styles and participate in weekly photo challenges. The AI-powered recommendation system analyzes your preferences to suggest personalized editing techniques, while the seamless sharing integration connects directly to Instagram, Facebook, and other platforms. With 4.8 million downloads and consistent 5-star reviews praising its innovative features, PhotoFlow stands as the ultimate companion for visual storytelling in the digital age.\n\nWhat truly sets PhotoFlow apart is its commitment to accessibility and continuous innovation. The app regularly updates its AI algorithms to include the latest photography trends and techniques, ensuring users always have access to cutting-edge tools. Its low-light enhancement technology and portrait mode refinement rival professional DSLR capabilities, while the collaborative editing feature allows multiple users to work on projects simultaneously. Whether you're capturing everyday moments or creating artistic masterpieces, PhotoFlow provides the perfect blend of simplicity and sophistication.",
+    "size": 72,
+    "reviews": 2560,
+    "ratingAvg": 4.6,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 1330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PvY360nY/image.png",
+    "title": "FitTrack",
+    "companyName": "ActiveCore Technologies",
+    "id": 2,
+    "description": "FitTrack by ActiveCore Technologies empowers users to take control of their fitness journey through comprehensive activity monitoring and personalized insights. The app seamlessly tracks workouts across 50+ exercise types, from running and cycling to strength training and yoga, using advanced GPS and motion sensors. Its detailed analytics dashboard visualizes progress with charts showing calorie burn, heart rate zones, and performance trends over time. Integration with wearable devices ensures real-time data synchronization for accurate health metrics.\n\nThe app's AI coach creates adaptive training plans based on user goals, fitness level, and recovery patterns, while the nutrition tracker logs meals with barcode scanning and macro breakdowns. Social features allow sharing achievements with friends and joining virtual challenges. With 3.9 million downloads and a 4.4-star rating, FitTrack's users praise its actionable insights and motivation tools that transform raw data into meaningful lifestyle improvements.\n\nFitTrack excels in creating a holistic health ecosystem by connecting physical activity with mental wellness. Its mindfulness section offers guided breathing exercises and stress-reduction techniques that complement workout routines. The sleep quality analyzer provides actionable recommendations for improving rest, while the hydration tracker ensures optimal fluid intake throughout the day. By combining these elements with customizable goal-setting and progress celebrations, FitTrack becomes more than just a fitness app—it evolves into a comprehensive wellness companion that adapts to your evolving health journey.",
+    "size": 58,
+    "reviews": 1850,
+    "ratingAvg": 4.4,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 830 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FZvj2Th/image.png",
+    "title": "NoteSpace",
+    "companyName": "CloudBits Inc.",
+    "id": 3,
+    "description": "NoteSpace by CloudBits Inc. redefines digital organization with its minimalist workspace for capturing ideas, managing projects, and collaborating in real-time. The app supports multiple note formats including rich text, checklists, voice memos, and sketched diagrams, all synced instantly across devices via encrypted cloud storage. Its intuitive tagging system and powerful search functionality make retrieving information effortless, while the clean interface reduces cognitive load for enhanced productivity.\n\nAdvanced features include version history for tracking edits, offline access for uninterrupted work, and seamless integration with tools like Google Calendar and Trello. The collaborative workspace allows teams to co-edit documents with threaded comments and task assignments. With 2.15 million downloads and a 4.2-star rating, NoteSpace is praised for transforming chaotic thoughts into structured knowledge systems that adapt to individual workflows.\n\nNoteSpace stands out with its intelligent organization capabilities that learn from user behavior. The AI-powered assistant suggests relevant tags and categories automatically, while the smart templates adapt to different project types from meeting notes to creative writing. Its distraction-free focus mode blocks notifications during deep work sessions, and the cross-platform sync ensures your latest ideas are always at your fingertips. By combining powerful features with an elegant design philosophy, NoteSpace creates an environment where creativity and productivity flourish naturally.",
+    "size": 44,
+    "reviews": 1320,
+    "ratingAvg": 4.2,
+    "downloads": 2150000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 480 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yc5PrV96/image.png",
+    "title": "SoundWave",
+    "companyName": "AudioForge Studio",
+    "id": 4,
+    "description": "SoundWave by AudioForge Studio delivers professional-grade audio editing capabilities in a mobile-friendly interface, enabling musicians, podcasters, and content creators to produce studio-quality work anywhere. The app features multi-track editing with support for up to 32 simultaneous tracks, alongside real-time effects like reverb, compression, and noise reduction. Its AI-powered mastering tool analyzes audio dynamics to apply optimal EQ and loudness adjustments automatically.\n\nCollaboration features include cloud project sharing with version control and real-time waveform synchronization. The app supports high-resolution audio formats up to 32-bit/192kHz and includes a built-in instrument library with virtual synthesizers and drum machines. With 3.5 million downloads and a 4.5-star rating, SoundWave is celebrated for democratizing professional audio production through its intuitive touch controls and export options optimized for all major platforms.\n\nWhat makes SoundWave truly exceptional is its commitment to mobile audio innovation without compromise. The app's latency compensation technology ensures precise timing even with complex multi-track arrangements, while its spectral editing capabilities allow surgical frequency adjustments. The integrated sound design library includes thousands of royalty-free samples and loops, and the automation system enables intricate parameter changes over time. Whether you're recording a podcast episode on location or mixing a full musical composition during your commute, SoundWave provides the power and flexibility of a professional DAW in your pocket.",
+    "size": 86,
+    "reviews": 2200,
+    "ratingAvg": 4.5,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 630 },
+      { "name": "5 star", "count": 1030 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hx94PtWN/image.png",
+    "title": "MindEase",
+    "companyName": "CalmTech",
+    "id": 5,
+    "description": "MindEase by CalmTech offers a holistic approach to mental wellness through guided meditation, mood tracking, and personalized mindfulness exercises. The app features a library of over 500 meditations tailored to specific needs like stress reduction, sleep improvement, and focus enhancement, with sessions ranging from 3-minute quick resets to hour-long deep dives. Biofeedback integration uses phone sensors to monitor breathing patterns and provide real-time relaxation guidance.\n\nThe mood journal employs emotion recognition AI to identify patterns in mental states, while progress dashboards visualize correlations between activities and emotional well-being. Customizable reminders and community challenges encourage consistent practice. With 6.4 million downloads and a 4.8-star rating, MindEase is praised for transforming mental health management into an accessible, data-driven daily habit.\n\nMindEase distinguishes itself through its evidence-based approach and personalized care pathways. The app collaborates with clinical psychologists to develop therapeutic programs for anxiety and depression, while its sleep stories are crafted by trained hypnotherapists. The 'Calm Kids' section offers age-appropriate mindfulness activities for children, and the workplace wellness module provides stress-reduction techniques for professionals. By combining scientific rigor with compassionate design, MindEase creates a safe space for users to explore their mental landscape and build lasting emotional resilience.",
+    "size": 51,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": 6400000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 2060 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bg3tX4mt/image.png",
+    "title": "Travelio",
+    "companyName": "SkyBound",
+    "id": 6,
+    "description": "Travelio by SkyBound streamlines travel planning with its all-in-one platform for itinerary creation, accommodation booking, and local experience discovery. The app aggregates real-time pricing from hundreds of airlines and hotels, using AI to recommend personalized destinations based on budget, seasonality, and user preferences. Its interactive maps overlay points of interest with transportation options, while the currency converter and packing checklist ensure practical preparation.\n\nCollaborative trip planning allows multiple travelers to co-edit itineraries and split expenses automatically. The offline mode saves maps and reservations for remote areas, while the 'Near Me' feature uses geolocation to suggest hidden gems and emergency services. With 5.2 million downloads and a 4.3-star rating, Travelio is celebrated for turning complex travel logistics into seamless adventures.\n\nTravelio's true innovation lies in its contextual awareness and predictive capabilities. The app monitors flight statuses and automatically adjusts ground transportation arrangements, while its weather-based activity rescheduler suggests alternatives during unexpected conditions. The cultural etiquette guide provides local customs and phrases, and the digital passport scanner stores important documents securely. By anticipating travelers' needs and solving problems before they arise, Travelio transforms trip planning from a chore into an exciting part of the journey itself.",
+    "size": 64,
+    "reviews": 2700,
+    "ratingAvg": 4.3,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1290 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/L7rfmtQ/image.png",
+    "title": "QuickScan",
+    "companyName": "DocuVision",
+    "id": 7,
+    "description": "QuickScan by DocuVision transforms mobile devices into powerful document scanners with AI-enhanced OCR technology that converts physical papers into editable digital files. The app automatically detects borders, corrects perspective distortion, and enhances readability through intelligent color adjustment. Its multi-language OCR supports 30+ languages, accurately extracting text from receipts, contracts, and handwritten notes while preserving original formatting.\n\nCloud integration allows seamless saving to Google Drive, Dropbox, and OneDrive, while advanced security features include password protection and end-to-end encryption. Batch scanning processes multiple pages into single PDFs with searchable text layers. With 2.6 million downloads and a 4.4-star rating, QuickScan is praised for its speed and precision in digitizing paperwork for professionals and students alike.\n\nQuickScan sets itself apart with its advanced document intelligence capabilities. The app can automatically categorize scanned documents by type (invoices, IDs, forms) and extract key data fields for easy organization. Its signature verification feature detects forged signatures, while the redaction tool securely removes sensitive information. The table extraction function preserves complex spreadsheet formatting, and the form filler enables interactive completion of digital documents. By combining scanning with intelligent document processing, QuickScan becomes an essential tool for modern paperless workflows.",
+    "size": 39,
+    "reviews": 1930,
+    "ratingAvg": 4.4,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 560 },
+      { "name": "5 star", "count": 910 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3mTCyFdQ/image.png",
+    "title": "TaskHaven",
+    "companyName": "Productify Labs",
+    "id": 8,
+    "description": "TaskHaven by Productify Labs enhances personal productivity through intelligent task management with adaptive reminders and progress visualization. The app organizes to-dos into customizable projects with priority tags, due dates, and dependency tracking, while its AI assistant suggests optimal scheduling based on workload patterns and deadlines. The Kanban-style board interface offers drag-and-drop functionality for seamless workflow adjustments.\n\nCollaboration features include shared task lists with real-time updates and comment threads for team coordination. The habit tracker integrates with daily goals, providing streak counters and motivational rewards. With 2.1 million downloads and a 4.1-star rating, TaskHaven is valued for transforming overwhelming to-do lists into manageable action plans with clear visual progress indicators.\n\nTaskHaven's true strength lies in its predictive productivity capabilities. The app analyzes your work patterns to identify peak productivity hours and suggests task scheduling accordingly. Its focus mode blocks distracting apps and websites during deep work sessions, while the energy level tracker recommends appropriate task types based on your circadian rhythm. The automated time estimation feature learns from your completion history to provide realistic deadlines, and the burnout prevention monitor suggests breaks when productivity declines. By understanding the human elements of productivity, TaskHaven creates a sustainable system for achieving goals without sacrificing well-being.",
+    "size": 35,
+    "reviews": 1450,
+    "ratingAvg": 4.1,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 410 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/S4xdk83s/image.png",
+    "title": "ShopSmart",
+    "companyName": "RetailEdge",
+    "id": 9,
+    "description": "ShopSmart by RetailEdge revolutionizes retail therapy with its intelligent price comparison engine that scans thousands of online and local stores to find the best deals. The app uses AI to track price history and predict optimal purchase times, while barcode scanning instantly reveals product reviews and alternative retailers. Personalized alerts notify users of discounts on wishlist items, and the coupon database automatically applies promo codes at checkout.\n\nThe shopping list feature organizes items by store layout for efficient trips, while the loyalty program tracker consolidates points and rewards across multiple retailers. With 8.8 million downloads and a 4.5-star rating, ShopSmart empowers consumers to make informed purchasing decisions while maximizing savings through data-driven insights.\n\nShopSmart elevates the shopping experience through its personalized recommendation engine that learns your preferences and values. The app suggests sustainable alternatives for products, highlights ethical brands, and provides carbon footprint estimates for purchases. Its virtual try-on feature uses AR to visualize clothing and furniture in your space, while the group shopping function allows friends to collaborate on gift selections. By combining savings with conscious consumption, ShopSmart transforms shopping from a transaction into an informed, values-aligned experience.",
+    "size": 62,
+    "reviews": 3400,
+    "ratingAvg": 4.5,
+    "downloads": 8800000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 840 },
+      { "name": "5 star", "count": 1750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yB8GZkY6/image.png",
+    "title": "StudyMate",
+    "companyName": "EduCore Systems",
+    "id": 10,
+    "description": "StudyMate by EduCore Systems optimizes learning through scientifically-proven spaced repetition algorithms that adapt to individual memory patterns. The app generates dynamic flashcards from textbooks, lecture notes, or user input, incorporating images and audio for multi-sensory retention. Its quiz engine simulates exam conditions with randomized questions and detailed performance analytics highlighting knowledge gaps.\n\nCollaborative study groups allow sharing of flashcard decks and progress tracking, while the focus timer uses Pomodoro techniques to prevent burnout. With 3 million downloads and a 4.7-star rating, StudyMate is praised for transforming passive studying into active recall sessions that significantly improve long-term information retention.\n\nStudyMate's advanced cognitive science features set it apart from conventional learning apps. The app implements the Leitner system with adaptive intervals that adjust based on your performance, while its interleaving practice mixes different subjects to enhance problem-solving skills. The elaborative interrogation tool prompts deeper understanding through self-questioning, and the dual coding feature combines verbal and visual information for stronger memory traces. By aligning with how the brain naturally learns, StudyMate creates an efficient and enjoyable path to mastery.",
+    "size": 48,
+    "reviews": 1650,
+    "ratingAvg": 4.7,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 380 },
+      { "name": "5 star", "count": 980 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/23MynGJv/image.png",
+    "title": "NursePro",
+    "companyName": "UJAJ Health Systems",
+    "id": 11,
+    "description": "NursePro by UJAJ Health Systems serves as an indispensable clinical companion for nursing professionals, featuring an extensive drug guide with dosage calculators and interaction alerts. The app provides step-by-step procedure instructions with video demonstrations and safety checklists, while its care plan builder offers customizable templates for common conditions. Offline access ensures critical information is available even in areas with limited connectivity.\n\nThe shift organizer tracks patient assignments and task priorities, while the lab values interpreter highlights abnormal results with reference ranges. Regular updates incorporate the latest evidence-based practices and medical guidelines. With 4.2 million downloads and a 4.7-star rating, NursePro is celebrated for enhancing patient safety and reducing clinical errors through reliable, point-of-care resources.\n\nNursePro's specialized modules address the unique challenges of modern nursing practice. The pediatric section includes age-specific dosage calculations and developmental milestone trackers, while the geriatric module features fall risk assessments and dementia care protocols. The wound care classifier uses image recognition to suggest appropriate treatments, and the IV compatibility checker prevents dangerous medication combinations. By combining comprehensive medical knowledge with practical workflow tools, NursePro becomes an essential extension of the nurse's clinical judgment.",
+    "size": 68,
+    "reviews": 2870,
+    "ratingAvg": 4.7,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 1730 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/VWfMc4qP/image.png",
+    "title": "MathGenius",
+    "companyName": "JaspiEdTech",
+    "id": 12,
+    "description": "MathGenius by JaspiEdTech makes mathematics mastery accessible through interactive lessons and AI-powered tutoring that adapts to individual learning curves. The app covers topics from basic arithmetic to advanced calculus, using visualizations and real-world applications to build conceptual understanding. Its step-by-step problem solver shows detailed solution paths, while the practice generator creates unlimited exercises tailored to weak areas.\n\nGamified elements include achievement badges and competitive leaderboards, while the progress dashboard tracks skill development across mathematical domains. The virtual tutor provides instant feedback and alternative explanation methods when concepts prove challenging. With 6.1 million downloads and a 4.8-star rating, MathGenius is praised for transforming math anxiety into confidence through personalized, engaging instruction.\n\nMathGenius excels in making abstract concepts tangible through its interactive learning environment. The app's 3D graphing calculator allows manipulation of geometric shapes in virtual space, while its word problem simulator applies mathematical concepts to realistic scenarios. The adaptive difficulty system ensures learners are always challenged at the right level, and the mistake analysis feature identifies common misconceptions to provide targeted remediation. By combining rigorous pedagogy with engaging technology, MathGenius creates a positive relationship with mathematics that lasts a lifetime.",
+    "size": 54,
+    "reviews": 3150,
+    "ratingAvg": 4.8,
+    "downloads": 6100000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 2140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/mWHvC1n/image.png",
+    "title": "WellAge",
+    "companyName": "Human Wellness",
+    "id": 13,
+    "description": "WellAge by Human Wellness supports healthy aging through personalized routines that integrate fitness, nutrition, and mental wellness. The app features age-adapted workout videos with modifications for mobility limitations, while the meal planner generates nutrient-rich recipes targeting common age-related concerns like bone density and heart health. Sleep tracking with smart alarm technology optimizes rest cycles for cognitive function.\n\nMedication reminders with interaction databases ensure safe management of prescriptions, while the social connection feature facilitates community engagement through local activity groups. Progress reports highlight improvements in vitality markers, and the longevity library offers evidence-based articles on aging well. With 4.7 million downloads and a 4.5-star rating, WellAge empowers users to proactively manage their health journey.\n\nWellAge's holistic approach addresses the multifaceted nature of aging with specialized modules. The cognitive fitness section includes brain-training games and memory exercises, while the fall prevention program offers balance assessments and home safety checklists. The chronic condition manager tracks symptoms and medication efficacy for conditions like arthritis and diabetes, and the legacy planning feature helps organize important documents and end-of-life wishes. By providing comprehensive support for physical, mental, and practical aspects of aging, WellAge helps users maintain independence and quality of life.",
+    "size": 63,
+    "reviews": 2680,
+    "ratingAvg": 4.5,
+    "downloads": 4700000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 710 },
+      { "name": "5 star", "count": 1350 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/C5sbrgp6/image.png",
+    "title": "Tourista",
+    "companyName": "SM Global Tours",
+    "id": 14,
+    "description": "Tourista by SM Global Tours unlocks authentic travel experiences with curated itineraries and real-time local recommendations. The app features interactive maps highlighting cultural landmarks, hidden gems, and seasonal events, while the AR mode overlays historical information through smartphone cameras. Its booking engine aggregates tours, activities, and transportation with verified reviews and transparent pricing.\n\nPersonalized trip suggestions adapt to traveler preferences, whether seeking adventure, relaxation, or cultural immersion. The offline guide saves essential information like embassy contacts and translation phrases, while the expense tracker converts currencies and categorizes spending. With 7.2 million downloads and a 4.6-star rating, Tourista transforms ordinary trips into unforgettable journeys through insider knowledge.\n\nTourista's cultural immersion features create meaningful connections with destinations. The app's local expert network provides authentic recommendations from residents, while its festival calendar highlights traditional celebrations worldwide. The sustainable travel filter identifies eco-friendly accommodations and tours, and the cultural etiquette guide offers respectful interaction tips. By facilitating deeper engagement with local communities and traditions, Tourista helps travelers move beyond tourism to become temporary members of the places they visit.",
+    "size": 75,
+    "reviews": 3520,
+    "ratingAvg": 4.6,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 840 },
+      { "name": "5 star", "count": 1910 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VpMX0stm/image.png",
+    "title": "GameZone",
+    "companyName": "PlayVerse",
+    "id": 15,
+    "description": "GameZone by PlayVerse serves as the ultimate hub for gaming enthusiasts, aggregating news, reviews, and live esports events across all platforms. The app features personalized content feeds based on gaming preferences, while the tournament tracker provides schedules and real-time scores for competitive events. Its discovery engine recommends new games using AI analysis of play history and genre preferences.\n\nSocial features include friend activity feeds and cross-platform chat, while the deal aggregator highlights discounts on digital game stores. The library manager organizes owned games across consoles and PC with playtime statistics. With 9.8 million downloads and a 4.5-star rating, GameZone keeps gamers connected to the pulse of interactive entertainment culture.\n\nGameZone enhances the gaming experience through its community-driven features. The app's matchmaking system connects players with similar skill levels and interests for multiplayer sessions, while its creator spotlight highlights emerging game developers and streamers. The achievement tracker syncs accomplishments across platforms, and the game preservation archive catalogs classic titles with historical context. By fostering connections between players, creators, and the industry, GameZone creates a vibrant ecosystem that celebrates gaming as both art and community.",
+    "size": 95,
+    "reviews": 4200,
+    "ratingAvg": 4.5,
+    "downloads": 9800000,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 980 },
+      { "name": "5 star", "count": 2170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5gHQRRfx/image.png",
+    "title": "LangMaster",
+    "companyName": "LinguaLogic",
+    "id": 16,
+    "description": "LangMaster by LinguaLogic accelerates language acquisition through immersive lessons featuring native speaker audio and advanced speech recognition. The app offers courses in 30+ languages with scenario-based dialogues covering travel, business, and daily conversations. Its AI pronunciation coach provides real-time feedback on accent and intonation, while adaptive algorithms adjust difficulty based on performance.\n\nCultural context modules explain idioms and social customs, while the vocabulary builder uses spaced repetition for long-term retention. Live tutoring sessions connect users with native speakers for conversational practice. With 4.6 million downloads and a 4.6-star rating, LangMaster bridges the gap between classroom learning and real-world fluency.\n\nLangMaster's innovative approach creates authentic language experiences through its immersive environment. The app's conversation simulator uses AI to generate realistic dialogues with branching responses, while its cultural immersion videos showcase language in natural contexts. The accent reduction program analyzes speech patterns to provide targeted improvement exercises, and the business language module offers industry-specific terminology. By combining linguistic precision with cultural understanding, LangMaster prepares learners not just to speak a language, but to think and live within it.",
+    "size": 53,
+    "reviews": 2560,
+    "ratingAvg": 4.6,
+    "downloads": 4600000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 640 },
+      { "name": "5 star", "count": 1360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Hp4sRqtG/image.png",
+    "title": "HabitForge",
+    "companyName": "GrowMind",
+    "id": 17,
+    "description": "HabitForge by GrowMind transforms personal development through science-based habit formation with engaging progress tracking. The app uses behavioral psychology principles to break goals into manageable micro-habits, with customizable reminders and motivational quotes. Its streak counter celebrates consistency, while the analytics dashboard reveals patterns in habit adherence and triggers for relapse.\n\nCommunity challenges foster accountability through group commitments, while the reward system unlocks achievement badges for milestones. The journal feature encourages reflection on habit impacts, and the library offers expert strategies for overcoming common obstacles. With 2.6 million downloads and a 4.7-star rating, HabitForge turns aspirations into sustainable lifestyle changes.\n\nHabitForge's sophisticated habit architecture creates lasting behavior change through its personalized approach. The app identifies optimal implementation intentions based on user psychology, while its context-aware reminders trigger actions at the right time and place. The habit stacking feature links new behaviors to existing routines, and the identity reinforcement module helps users internalize new self-perceptions. By addressing both the mechanics and mindset of habit formation, HabitForge creates a foundation for continuous personal growth.",
+    "size": 41,
+    "reviews": 1440,
+    "ratingAvg": 4.7,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 840 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dsppXs41/image.png",
+    "title": "StreamCast",
+    "companyName": "MediaNova",
+    "id": 18,
+    "description": "StreamCast by MediaNova delivers premium live streaming and on-demand content from top creators across entertainment, gaming, and education. The app features adaptive streaming quality that adjusts to network conditions, while the interactive chat enhances viewer engagement with emoji reactions and virtual gifts. Its recommendation algorithm curates personalized content based on viewing history and trending topics.\n\nMulti-view support allows watching up to four streams simultaneously, while the DVR functionality enables pausing and rewinding live broadcasts. Creator tools include analytics dashboards and monetization features for channel growth. With 8.2 million downloads and a 4.4-star rating, StreamCast connects audiences with diverse digital content experiences.\n\nStreamCast revolutionizes content consumption through its interactive features. The app's co-streaming capability enables real-time collaboration between creators, while its audience participation tools allow viewers to influence live content through polls and challenges. The content discovery algorithm surfaces emerging creators alongside established stars, and the accessibility features include live captioning and audio descriptions. By creating a dynamic two-way relationship between creators and audiences, StreamCast represents the future of interactive entertainment.",
+    "size": 88,
+    "reviews": 3980,
+    "ratingAvg": 4.4,
+    "downloads": 8200000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 880 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qM92pLTt/image.png",
+    "title": "Weatherly",
+    "companyName": "SkyTech Labs",
+    "id": 19,
+    "description": "Weatherly by SkyTech Labs provides hyperlocal weather forecasting with live radar maps and personalized alert systems. The app combines data from multiple meteorological sources to deliver minute-by-minute precipitation predictions and temperature trends. Its interactive radar features storm tracking and severe weather warnings, while the 'Feels Like' calculator adjusts for humidity and wind chill.\n\nCustomizable notifications alert users to approaching weather conditions relevant to their activities, from gardening to commuting. The sunrise/sunset tracker optimizes outdoor plans, while the pollen count and air quality indices support health decisions. With 3.9 million downloads and a 4.5-star rating, Weatherly empowers users to stay ahead of changing atmospheric conditions.\n\nWeatherly's predictive intelligence goes beyond standard forecasts with its personalized insights. The app's health weather module analyzes conditions that may affect chronic conditions like asthma or arthritis, while its agricultural forecast provides planting and harvesting guidance. The travel weather planner optimizes itineraries based on historical patterns, and the energy usage predictor helps manage home heating and cooling costs. By translating complex meteorological data into actionable personal insights, Weatherly becomes an indispensable daily companion.",
+    "size": 40,
+    "reviews": 1980,
+    "ratingAvg": 4.5,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1020 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TDqBDbVC/image.png",
+    "title": "HealthSync",
+    "companyName": "VitalOne",
+    "id": 20,
+    "description": "HealthSync by VitalOne centralizes health monitoring through comprehensive tracking of vital signs, activity levels, and sleep patterns. The app integrates with wearable devices to capture real-time heart rate, blood oxygen, and stress metrics, displaying trends through intuitive visualizations. Its sleep analyzer breaks down rest cycles with suggestions for improvement, while the medication log ensures adherence to prescribed treatments.\n\nThe symptom checker uses AI to provide preliminary assessments, while the emergency contacts feature shares location and medical information with first responders. Data export capabilities facilitate sharing with healthcare providers during consultations. With 5 million downloads and a 4.6-star rating, HealthSync promotes proactive health management through accessible insights.\n\nHealthSync's preventive care features create a complete health ecosystem. The app's nutrition tracker analyzes dietary patterns and suggests improvements, while its mental wellness module monitors mood and stress levels. The family health profile allows managing care for dependents, and the telehealth integration connects users with medical professionals for virtual consultations. By combining monitoring with actionable guidance, HealthSync empowers users to become active participants in their healthcare journey.",
+    "size": 52,
+    "reviews": 2600,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 630 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bRbTn66c/image.png",
+    "title": "RideNow",
+    "companyName": "UrbanMove",
+    "id": 21,
+    "description": "RideNow by UrbanMove revolutionizes urban transportation with instant taxi and ride-sharing bookings featuring smart route optimization. The app compares real-time pricing across multiple services to find the most economical option, while live GPS tracking provides accurate ETAs and driver locations. Its safety toolkit includes ride sharing with contacts and emergency assistance buttons.\n\nMulti-stop trip planning accommodates complex itineraries, while the fare estimator prevents surprises. Accessibility options filter for wheelchair-friendly vehicles, and the loyalty program rewards frequent riders with discounts. With 7.1 million downloads and a 4.2-star rating, RideNow simplifies city navigation through reliable, on-demand transportation solutions.\n\nRideNow's innovative features address the full spectrum of urban mobility needs. The app's shared ride option matches passengers traveling similar routes to reduce costs and environmental impact, while its public transit integration suggests combined transportation solutions. The corporate travel manager streamlines business trip expenses, and the event transportation service coordinates group rides for concerts and gatherings. By creating a comprehensive mobility ecosystem, RideNow transforms how people experience and navigate urban environments.",
+    "size": 79,
+    "reviews": 2750,
+    "ratingAvg": 4.2,
+    "downloads": 7100000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/84GNQPTB/image.png",
+    "title": "Cooksy",
+    "companyName": "KitchenIQ",
+    "id": 22,
+    "description": "Cooksy by KitchenIQ transforms meal preparation with an AI-powered chef that suggests recipes based on available ingredients and dietary preferences. The app's pantry scanner identifies items through barcode recognition or manual input, generating creative recipe options that minimize food waste. Step-by-step video instructions guide users through techniques, while the smart timer coordinates multi-component dishes.\n\nNutritional analysis provides calorie counts and macro breakdowns for each recipe, with substitution suggestions for allergies. The meal planner generates shopping lists and schedules cooking sessions, while the community feature allows sharing culinary creations. With 4.2 million downloads and a 4.4-star rating, Cooksy inspires kitchen confidence through personalized gastronomic guidance.\n\nCooksy's intelligent cooking assistant adapts to your culinary journey. The app's skill progression system builds from basic techniques to advanced methods, while its flavor profile analyzer suggests ingredient pairings based on taste preferences. The budget optimizer finds recipes within your price range, and the cultural cuisine explorer introduces global cooking traditions. By combining practical functionality with culinary education, Cooksy helps users develop both cooking skills and a deeper appreciation for food.",
+    "size": 59,
+    "reviews": 2300,
+    "ratingAvg": 4.4,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 580 },
+      { "name": "5 star", "count": 1140 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VYxNCpp1/image.png",
+    "title": "GlowCam",
+    "companyName": "PixelAura",
+    "id": 23,
+    "description": "GlowCam by PixelAura empowers videographers with cinematic capture capabilities featuring real-time AI color grading and lighting adjustments. The app analyzes scene composition to suggest optimal framing, while its stabilization algorithms eliminate shaky footage without additional equipment. Professional-grade controls include adjustable frame rates, focus peaking, and logarithmic recording for maximum editing flexibility.\n\nThe built-in editor offers multi-track timelines with transitions and effects, while the audio mixer captures directional sound with noise reduction. Cloud collaboration enables seamless project sharing with team members, and export presets optimize content for social media platforms. With 5.6 million downloads and a 4.6-star rating, GlowCam brings Hollywood-quality production to mobile creators.\n\nGlowCam's advanced features rival professional cinema equipment. The app's depth mapping creates authentic bokeh effects, while its HDR merging combines multiple exposures for stunning dynamic range. The motion tracking system enables complex visual effects, and the green screen studio supports chroma key compositing. By democratizing high-end video production tools, GlowCam allows creators to produce professional-quality content regardless of their equipment budget.",
+    "size": 83,
+    "reviews": 2980,
+    "ratingAvg": 4.6,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 690 },
+      { "name": "5 star", "count": 1650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/bRbTn66c/image.png",
+    "title": "BudgetBuddy",
+    "companyName": "Fintechly",
+    "id": 24,
+    "description": "BudgetBuddy by Fintechly simplifies financial management through intelligent expense tracking and predictive budgeting tools. The app automatically categorizes transactions from linked accounts, while its AI identifies spending patterns and forecasts future cash flow. Customizable budget envelopes allocate funds to specific categories with progress bars and overspend alerts.\n\nThe savings goal simulator projects timelines for financial targets, while the investment tracker monitors portfolio performance. Bill payment reminders prevent late fees, and the subscription manager identifies recurring charges. With 3.3 million downloads and a 4.3-star rating, BudgetBuddy transforms financial anxiety into actionable insights for long-term stability.\n\nBudgetBuddy's comprehensive financial planning features create a complete money management ecosystem. The app's debt reduction optimizer suggests payoff strategies for loans and credit cards, while its retirement planner calculates needed savings based on lifestyle goals. The tax deduction tracker identifies potential write-offs, and the insurance analyzer ensures adequate coverage at competitive rates. By providing both immediate oversight and long-term planning tools, BudgetBuddy empowers users to build lasting financial health.",
+    "size": 46,
+    "reviews": 1880,
+    "ratingAvg": 4.3,
+    "downloads": 3300000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 490 },
+      { "name": "5 star", "count": 890 }
+    ]
+  }
+]
