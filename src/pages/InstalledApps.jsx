@@ -51,51 +51,41 @@ const InstalledApps = () => {
             const numDown = (app?.downloads / 1000000).toFixed(1);
 
             return (
-              <div key={app.id} className='bg-white border-2 flex'>
-                <div className="bg-base-100 shadow-sm flex items-center">
-                  <div className="text-center flex justify-between items-center">
-                    <div className='flex items-center'>
-                      <div>
-                        <figure>
-                          <img
-                            src={app?.image}
-                            alt="" className='w-25 h-25 rounded-xl min-w-full min-h-full object-cover' />
-                        </figure>
-                      </div>
-                      <div className=' pl-[5%]'>
-                        <h2 className="text-xl md:text-2xl font-bold md:text-left">{app?.title}</h2>
-
-                        <div className='text-black'>
-                          <div className='flex items-center gap-[5%] py-[1%] '>
-                            <div className='flex items-center gap-[5%]'>
-                              <div className='flex justify-center w-4 h-4'>
-                                <img src={down} alt="" className="" />
-                              </div>
-                              <h1 className='text-sm md:text-base font-bold'>{numDown}M</h1>
-                            </div>
-
-                            <div className='flex items-center gap-[5%]'>
-                              <div className='flex justify-center w-4 h-4'>
-                                <img src={star} alt="" className="" />
-                              </div>
-                              <h1 className='text-sm md:text-base font-bold'>{numDown}M</h1>
-                            </div>
-
-                            <div className='flex-2'>
-                              <h1 className='text-sm md:text-base font-semibold w-content'>{app?.size}MB</h1>
-                            </div>
-                          </div>
+              <div key={app.id} className='flex'>
+                <div key={app.id} className='bg-white rounded-lg p-4 my-3 shadow-sm flex flex-col md:flex-row md:items-center justify-between w-full'>
+                  {/* Left side: Image + Info */}
+                  <div className='flex items-center gap-4'>
+                    <img
+                      src={app?.image}
+                      alt=""
+                      className='w-20 h-20 rounded-xl object-cover'
+                    />
+                    <div>
+                      <h2 className="text-lg md:text-xl font-bold">{app?.title}</h2>
+                      <div className='flex flex-wrap items-center gap-3 mt-1 text-sm text-gray-700'>
+                        <div className='flex items-center gap-1'>
+                          <img src={down} alt="" className="w-4 h-4" />
+                          <span>{(app?.downloads / 1000000).toFixed(1)}M</span>
                         </div>
-
+                        <div className='flex items-center gap-1'>
+                          <img src={star} alt="" className="w-4 h-4" />
+                          <span>{app?.rating ?? '4.5'}</span>
+                        </div>
+                        <span className='font-semibold'>{app?.size}MB</span>
                       </div>
-
-                    </div>
-
-                    <div className="flex-1">
-                      <button onClick={() => handleUninstall(app)} className="btn bg-emerald-400 text-white">Uninstall</button>
                     </div>
                   </div>
+
+                  <div className='mt-3 md:mt-0 md:ml-auto'>
+                    <button
+                      onClick={() => handleUninstall(app)}
+                      className='btn bg-emerald-500 hover:bg-emerald-600 text-white px-5'
+                    >
+                      Uninstall
+                    </button>
+                  </div>
                 </div>
+
               </div>
             );
           })

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useParams } from 'react-router'
 import useApps from '../hooks/useApps';
 import down from '../assets/icon-downloads.png'
@@ -9,15 +9,17 @@ import ErrorRoute from './ErrorRoute';
 import ErrorApp from './ErrorApp';
 const AppDetails = () => {
   const params = useParams();
+  const [isInstalled, setIsInstalled] = useState(false);
+  console.log(isInstalled);
   // console.log(params.id);
   const { apps } = useApps();
   const app = apps.find(a => String(a.id) === params.id)
-  if(!app)
-  {
+  if (!app) {
     return <ErrorApp></ErrorApp>
   }
   // console.log(app);
   const handleInstall = () => {
+      setIsInstalled(false);
     // console.log("Clicked?");
     let allInstalledApps = JSON.parse(localStorage.getItem('InstalledApps'));
     let allUpdatedInstalledApps = [];
@@ -26,9 +28,12 @@ const AppDetails = () => {
       if (hasInstalled) return alert("Already added!")
       else
         allUpdatedInstalledApps = [...allInstalledApps, app];
+
     }
-    else
+    else {
+      setIsInstalled(true);
       allUpdatedInstalledApps.push(app);
+    }
     localStorage.setItem('InstalledApps', JSON.stringify(allUpdatedInstalledApps));
   }
   let numDown = (app?.downloads / 1000000);
@@ -78,7 +83,12 @@ const AppDetails = () => {
           </div>
 
           <div className="card-actions justify-center md:justify-start">
-            <button onClick={handleInstall} className="btn bg-emerald-400 text-white">Install Now ({app?.size} MB)</button>
+            {/* <button
+              onClick={handleInstall}
+              disabled={isInstalled}
+              className={`btn ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-emerald-400 text-white'}`}
+            >Install Now ({app?.size} MB)</button> */}
+            <button onClick={handleInstall} disabled={isInstalled} className={`btn ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-emerald-400 text-white'}`}>Install Now ({app?.size} MB)</button>
           </div>
         </div>
       </div>
