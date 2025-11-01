@@ -9,7 +9,7 @@ const AllApps = () => {
     // console.log(search);
     const term = search.trim().toLocaleLowerCase();
     const searchedApps = term ? apps.filter(app => app.title.toLocaleLowerCase().includes(term)) : apps;
-    console.log(searchedApps)
+    // console.log(searchedApps)
     return (
         <div className='px-[4%]'>
             <div className='text-center py-[1%]'>

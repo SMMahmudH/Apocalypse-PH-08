@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import down from '../assets/icon-downloads.png'
 import star from '../assets/icon-ratings.png'
+import { toast } from 'react-toastify';
 
 const InstalledApps = () => {
   const [appInstalled, setAppInstalled] = useState([]);
@@ -16,6 +17,7 @@ const InstalledApps = () => {
     const hasUninstalled = allInstalledApps.filter(a => a.id !== app.id);
     localStorage.setItem('InstalledApps', JSON.stringify(hasUninstalled));
     setAppInstalled(hasUninstalled);
+    toast(`${app?.title} has been Uninstalled!`)
   }
 
   const sortedApp = () => {
@@ -28,14 +30,14 @@ const InstalledApps = () => {
     return appInstalled;
   }
   return (
-    <div className='px-[4%]'>
+    <div className='p-[4%]'>
       <div className='text-center'>
         <h1 className='font-bold text-lg md:text-2xl'>Your Installed Apps</h1>
         <p className='text-xs md:text-sm text-gray-600'>Explore All Trending Apps on the Market developed by us</p>
       </div>
-      <div className='flex justify-between'>
+      <div className='flex justify-between items-center pt-[5%]'>
         <h1 className='font-semibold'> <span className='font-bold'>{appInstalled.length}</span> Apps Installed</h1>
-        <label className='form-control w-full max-w-xs'>
+        <label className='form-control w-[50%] md:w-[25%] max-w-xs'>
           <select className='select select-bordered ' value={sortSize} onChange={a => SetSortSize(a.target.value)}>
             <option value="none">Sort By Size</option>
             <option value="asc">Low -&gt; High</option>
@@ -52,8 +54,7 @@ const InstalledApps = () => {
 
             return (
               <div key={app.id} className='flex'>
-                <div key={app.id} className='bg-white rounded-lg p-4 my-3 shadow-sm flex flex-col md:flex-row md:items-center justify-between w-full'>
-                  {/* Left side: Image + Info */}
+                <div key={app.id} className='bg-white rounded-lg p-4 my-3 shadow-sm flex flex-row md:items-center justify-between w-full'>
                   <div className='flex items-center gap-4'>
                     <img
                       src={app?.image}
