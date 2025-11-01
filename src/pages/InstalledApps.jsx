@@ -22,10 +22,10 @@ const InstalledApps = () => {
 
   const sortedApp = () => {
     if (sortSize === 'asc') {
-      return [...appInstalled].sort((a, b) => a.size - b.size)
+      return [...appInstalled].sort((a, b) => a.downloads - b.downloads)
     }
     if (sortSize === 'dsc') {
-      return [...appInstalled].sort((a, b) => b.size - a.size)
+      return [...appInstalled].sort((a, b) => b.downloads - a.downloads)
     }
     return appInstalled;
   }
@@ -39,7 +39,7 @@ const InstalledApps = () => {
         <h1 className='font-semibold'> <span className='font-bold'>{appInstalled.length}</span> Apps Installed</h1>
         <label className='form-control w-[50%] md:w-[25%] max-w-xs'>
           <select className='select select-bordered ' value={sortSize} onChange={a => SetSortSize(a.target.value)}>
-            <option value="none">Sort By Size</option>
+            <option value="none">Sort by Downloads</option>
             <option value="asc">Low -&gt; High</option>
             <option value="dsc">High -&gt; Low</option>
           </select>

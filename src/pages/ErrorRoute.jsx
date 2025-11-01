@@ -8,7 +8,7 @@ const ErrorRoute = () => {
     <div>
         <div className=''>
             <NavBar />
-            <div className='min-w-screen mx-auto border-2 border-amber-500'>
+            <div className='min-w-screen mx-auto'>
               <img src={error} alt="" />
                 {/* <Outlet /> */}
             </div>

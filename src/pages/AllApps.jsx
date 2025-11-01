@@ -11,7 +11,7 @@ const AllApps = () => {
     const searchedApps = term ? apps.filter(app => app.title.toLocaleLowerCase().includes(term)) : apps;
     // console.log(searchedApps)
     return (
-        <div className='px-[4%]'>
+        <div className='px-[4%] pb-[2%]'>
             <div className='text-center py-[1%]'>
                 <h1 className='text-2xl font-bold py-[1%]'>Our All Applications</h1>
                 <p className='text-sm md:text-base text-gray-600'>Explore All Apps on the Market developed by us. We code for Millions</p>
